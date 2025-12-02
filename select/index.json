@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Miree",
+  "base_artist": "Suchmos",
+  "createdAt": "2025-12-02T10:19:58.320998Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Miree",
+      "artist": "Suchmos",
+      "has_synced": false,
+      "path": "select/01_Miree_Suchmos.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Miree BAY ver.",
+      "artist": "Suchmos",
+      "has_synced": true,
+      "path": "select/02_Miree_BAY_ver._Suchmos.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mario vs Sonic 2 (feat. Miree, Sharkness, Sora, Kinox, Maydawa & Hache)",
+      "artist": "Keyblade",
+      "has_synced": true,
+      "path": "select/03_Mario_vs_Sonic_2_(feat._Miree,_Sharkness,_Sora,_Kinox,_Maydawa_&_Hache)_Keyblade.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mario vs Sonic 2 (feat. Miree, Sharkness, Sora",
+      "artist": "Keyblade",
+      "has_synced": true,
+      "path": "select/04_Mario_vs_Sonic_2_(feat._Miree,_Sharkness,_Sora_Keyblade.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mario vs Sonic 2 (feat. Miree, Hache, Sharkness",
+      "artist": "Video • Keyblade",
+      "has_synced": true,
+      "path": "select/05_Mario_vs_Sonic_2_(feat._Miree,_Hache,_Sharkness_Video_•_Keyblade.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mario vs Sonic 2 (Épicas Batallas de Rap del Frikismo) (feat. Miree, Sharkness, Sora & Kinox)",
+      "artist": "Keyblade",
+      "has_synced": true,
+      "path": "select/06_Mario_vs_Sonic_2_(Épicas_Batallas_de_Rap_del_Frikismo)_(feat._Miree,_Sharkness,__Keyblade.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kaibutsu (From \"Beastars Season 2\") [feat. Miree]",
+      "artist": "Fugasa",
+      "has_synced": true,
+      "path": "select/07_Kaibutsu_(From__Beastars_Season_2_)_[feat._Miree]_Fugasa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mario vs Sonic 2 (Épicas Batallas de Rap del Frikismo) (feat. Miree, Sharkness, Sora",
+      "artist": "Keyblade",
+      "has_synced": true,
+      "path": "select/08_Mario_vs_Sonic_2_(Épicas_Batallas_de_Rap_del_Frikismo)_(feat._Miree,_Sharkness,__Keyblade.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Miree Bay Ver.",
+      "artist": "Suchmos",
+      "has_synced": true,
+      "path": "select/09_Miree_Bay_Ver._Suchmos.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Luffy vs Ichigo (épicas Batallas de Rap del Frikismo T2) (feat. Sharkness & Miree)",
+      "artist": "Keyblade",
+      "has_synced": true,
+      "path": "select/10_Luffy_vs_Ichigo_(épicas_Batallas_de_Rap_del_Frikismo_T2)_(feat._Sharkness_&_Mire_Keyblade.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Digital Hallucination (Cover Español) (con Kinox, Miree, Pongu y Ykato)",
+      "artist": "Dariasuzu",
+      "has_synced": true,
+      "path": "select/11_Digital_Hallucination_(Cover_Español)_(con_Kinox,_Miree,_Pongu_y_Ykato)_Dariasuzu.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kill This Love - BLACKPINK (Cover en Español) (feat. Miree)",
+      "artist": "Hitomi Flor",
+      "has_synced": true,
+      "path": "select/12_Kill_This_Love_-_BLACKPINK_(Cover_en_Español)_(feat._Miree)_Hitomi_Flor.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Digital Hallucination (Cover Español) (feat. Kinox, Miree, Pongu",
+      "artist": "Dariasuzu",
+      "has_synced": true,
+      "path": "select/13_Digital_Hallucination_(Cover_Español)_(feat._Kinox,_Miree,_Pongu_Dariasuzu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MIREE",
+      "artist": "Suchmos",
+      "has_synced": false,
+      "path": "select/pl_01_MIREE_Suchmos.txt"
+    }
+  ]
+}
